@@ -1,5 +1,13 @@
-## Hi there 👋
-
+<img src="https://media.giphy.com/media/2y98KScHKeaQM/giphy.gif" width="120"/>
+<img src="https://media.giphy.com/media/JRlqKEzTDKci5JPcaL/giphy.gif" width="300"/>
+<img src="https://wallpaperaccess.com/full/3703013.jpg" width="100%"/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=Welcome+To+My+GitHub!;Naruto+Fan+🍥;Full+Stack+Developer;Python+Learner;Never+Give+Up!"/>
+</p>
+> "Hard work is worthless for those that don’t believe in themselves." — Naruto Uzumaki 🍥
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://media.giphy.com/media/10LKovKon8DENq/giphy.gif" width="250"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 <!--
 **Sravankumar68/Sravankumar68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
