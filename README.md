@@ -1,48 +1,14 @@
-````md
+
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/8f/3e/5e/8f3e5e2b8bdbf4fd6a58f91e8f5f9d6d.gif" width="100%"/>
-
-# ⚡ KONNICHIWA I'M SRAVAN KUMAR ⚡
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Explorer;Business+Analysis+Learner;Future+AI+Engineer;Prompt+Engineering+Enthusiast;Looking+For+Internship+Opportunities"/>
-
-<img src="https://media.tenor.com/I6kN-6X7nhAAAAAj/naruto.gif" width="180"/>
+<img 
+src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Explorer;Business+Analysis+Learner;Future+AI+Engineer;Prompt+Engineering+Enthusiast;Looking+For+Internship+Opportunities"
+style="display: block; margin: auto;"
+/>
 
 </div>
 
----
-
-# 💫 ABOUT ME
-
-<img align="right" alt="Naruto Aura" width="330" src="https://media.tenor.com/DimzPZMypFcAAAAC/naruto.gif"/>
-
-```python
-class SravanKumar:
-
-    def __init__(self):
-        self.name = "MOTHUKU SRAVAN KUMAR"
-        self.role = "CSE Student"
-        self.university = "PARUL UNIVERSITY"
-        self.interests = [
-            "Artificial Intelligence",
-            "Business Analysis",
-            "Modern Technology",
-            "Prompt Engineering"
-        ]
-
-    def currently_learning(self):
-        return [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Full Stack Development"
-        ]
-
-    def looking_for(self):
-        return "Internship Opportunities 🚀"
-````
-
----
+</div>
 
 # ⚔️ TECH STACK
 
