@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Sravankumar68/READMD/blob/cb08650ecbb93e84b5ece1c5859e7f85ef7f68e1/naruto.jpeg" width="10%"/>
+<img src="https://github.com/Sravankumar68/READMD/blob/cb08650ecbb93e84b5ece1c5859e7f85ef7f68e1/naruto.jpeg" width="20%"/>
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F0F78C&multiline=true&width=435&lines=%E2%9A%A1+KONNICHIWA+I'M+SRAVAN+KUMAR+%E2%9A%A1)](https://git.io/typing-svg) 
 
