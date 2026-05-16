@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Sravankumar68/READMD/blob/cb08650ecbb93e84b5ece1c5859e7f85ef7f68e1/naruto.jpeg" width="10%"/>
 
-# ⚡ KONNICHIWA I'M SRAVAN KUMAR ⚡
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F0F78C&multiline=true&width=435&lines=%E2%9A%A1+KONNICHIWA+I'M+SRAVAN+KUMAR+%E2%9A%A1)](https://git.io/typing-svg) 
 
 <img src= https://github.com/Sravankumar68/READMD/blob/5afc3951b481432418258c1deaa43aa933cbecd5/Uzumaki.gif width="200"/>
 
