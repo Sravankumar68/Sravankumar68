@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/2y98KScHKeaQM/giphy.gif" width="100%"/>
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/10SvWCbt1ytWCc/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/10SvWCbt1ytWCc/giphy.gif" width="30"/>
   
   KONNICHIWA I'M SRAVAN KUMAR
   
