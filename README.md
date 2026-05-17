@@ -29,27 +29,42 @@ style="display: block; margin: auto;"
 
 ---
 
+<table align="right">
+    <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
+    <tr><td><a href="README.md"><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/3909444.png" height="15"> English ★★★</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/3909444.png" height="15"> Hindi ★★★</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/3909444.png" height="15"> Telugu ★★★</a></td></tr>
+
+</table>
+
+
+
 # 🧠 SKILLS
 
-<table align="center">
-<tr>
-<td align="center">🤖 AI & ML</td>
-<td align="center">📊 Business Analysis</td>
-<td align="center">🌐 MERN Stack</td>
-</tr>
+<div align="center">
 
-<tr>
-<td align="center">🧠 Prompt Engineering</td>
-<td align="center">📦 Inventory Systems</td>
-<td align="center">🐳 Docker</td>
-</tr>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-0A0A0A?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-1A1A40?style=for-the-badge&logo=pytorch&logoColor=red"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-222222?style=for-the-badge&logo=probot&logoColor=white"/>
 
-<tr>
-<td align="center">⚡ Problem Solving</td>
-<td align="center">💡 Modern Technologies</td>
-<td align="center">🚀 GitHub</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Science-0F172A?style=for-the-badge&logo=jupyter&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Business%20Analysis-1D3557?style=for-the-badge&logo=powerbi&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/MERN%20Stack-20232A?style=for-the-badge&logo=mongodb&logoColor=green"/>
+<img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-2E2E2E?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/Modern%20Technologies-111827?style=for-the-badge&logo=techcrunch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Software%20Development-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=blue"/>
+
+</div>
 
 ---
 
@@ -70,19 +85,6 @@ style="display: block; margin: auto;"
 ✨ Focused on efficient product tracking and scalability.
 
 ---
-
-# 🌍 LANGUAGES I KNOW
-
-<div align="center">
-
-| Language | Proficiency |
-| -------- | ----------- |
-| Telugu   | ⭐⭐⭐⭐⭐       |
-| Hindi    | ⭐⭐⭐⭐        |
-| English  | ⭐⭐⭐⭐        |
-
-</div>
-
 ---
 #### BIO
 
@@ -118,11 +120,11 @@ I enjoy exploring AI tools 🤖 building creative projects 💻 and learning new
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sravankumar68&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sravankumar68&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sravankumar68&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
