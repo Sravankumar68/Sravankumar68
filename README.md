@@ -84,29 +84,34 @@ style="display: block; margin: auto;"
 </div>
 
 ---
+#### BIO
 
-# 🎯 CURRENT GOALS
+- 🏢 AI & Tech Enthusiast | Student at **Parul University**
+- 🔭 Area of interest is in <img src="https://img.shields.io/badge/Artificial Intelligence-brown"> and <img src="https://img.shields.io/badge/Machine Learning-blue">
+- 🎯 Specifically interested in building intelligent systems, automation, and real-world AI applications.
+- 🌱 Learning all about <img src="https://img.shields.io/badge/Prompt Engineering-orange"> and <img src="https://img.shields.io/badge/Cyber Security-008080">
+- <img align ='center' width ='27' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'> Looking to collaborate on *Open Source Projects* related to <img src="https://img.shields.io/badge/AI Projects-red">
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"/> Ping me about <img src="https://img.shields.io/badge/Artificial Intelligence-brown"> and <img src="https://img.shields.io/badge/Technology-purple">
+&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12"/>&nbsp;&nbsp;
 
-* 🚀 Become an AI Engineer
-* 📚 Master Artificial Intelligence
-* 💼 Secure Internship Opportunities
-* 🧠 Build Real-World AI Projects
-* 🌐 Learn Modern Technologies
+- 🚀 Current Goals:
+  - Become an AI Engineer
+  - Master Artificial Intelligence
+  - Secure Internship Opportunities
+  - Build Real-World AI Projects
+  - Learn Modern Technologies
 
----
+- Fun fact: <img src="https://github.com/Mouneshgouda/Mouneshgouda/blob/main/1307b8153968f6e9ce1020db5bab41e7.gif" width="25"/> 24--Jun--2005 | Non-Vegetarian 🍗 | Love & Peace ❤️ | Car Lover 🚗  
+| Gym Lover 🏋️‍♂️ | Traveling Enthusiast 🌍 | Podcast Listener 🎧  
+| Love Spending Time With Friends 👥 | Enjoy My Soul Company 🧘  
 
-# 🌸 FUN FACTS
+<img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="20" />&nbsp;
+I enjoy exploring AI tools 🤖 building creative projects 💻 and learning new technologies 🚀
 
-* 🎂 24--Jun--2005
-* 🍲 Non-Vegetarian
-* ❤️ Love & Peace
-* 🚗 Car Lover
-* 🏋️ Gym Lover
-* 🏝️ Traveling Enthusiast
-* 🎧 Podcast Listener
-* 👥 Love Spending Time With Friends
-* 🧘 Enjoy My Soul Company
-
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Reach me:
+<a href="mailto:yourmail@gmail.com" target="_blank">
+<img alt="Gmail" src="https://img.shields.io/badge/-sravankumarmothuku68@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
+</a>
 ---
 
 # 📊 GITHUB STATS
