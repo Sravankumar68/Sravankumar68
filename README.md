@@ -14,7 +14,7 @@
 </td>
 
 <td>
-<img src="YOUR_RIGHT_IMAGE_LINK" width="140px">
+<img src="https://github.com/Sravankumar68/Sravankumar68/blob/8a6f81997dc56a6bd820a1fcea028397ee55e921/download.gif" width="100px">
 </td>
 
 </tr>
