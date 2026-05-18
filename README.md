@@ -1,10 +1,24 @@
 <div align="center">
 
-<img src="https://github.com/Sravankumar68/READMD/blob/cb08650ecbb93e84b5ece1c5859e7f85ef7f68e1/naruto.jpeg" width="20%"/>
+<table>
+<tr>
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F0F78C&multiline=true&width=435&lines=%E2%9A%A1+KONNICHIWA+I'M+SRAVAN+KUMAR+%E2%9A%A1)](https://git.io/typing-svg) 
+<td>
+<img src="YOUR_LEFT_GIF_LINK" width="140px">
+</td>
 
-<img src= https://github.com/Sravankumar68/READMD/blob/5afc3951b481432418258c1deaa43aa933cbecd5/Uzumaki.gif width="200"/>
+<td>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&width=700&center=true&vCenter=true&lines=Konnichiwa+I'm+Sravan+Kumar;Artificial+Intelligence+Enthusiast;Tech+Enthusiast)](https://git.io/typing-svg)
+
+</td>
+
+<td>
+<img src="YOUR_RIGHT_IMAGE_LINK" width="140px">
+</td>
+
+</tr>
+</table>
 
 </div>
 
