@@ -4,7 +4,7 @@
 <tr>
 
 <td>
-<img src="YOUR_LEFT_GIF_LINK" width="140px">
+<img src="https://github.com/Sravankumar68/Sravankumar68/blob/2c6f30e6fb58306a0fe25c55941d1e92b6ed42c7/Naruto%20Uzumaki%20Icon.jpg" width="100px">
 </td>
 
 <td>
@@ -14,7 +14,7 @@
 </td>
 
 <td>
-<img src="https://github.com/Sravankumar68/Sravankumar68/blob/8a6f81997dc56a6bd820a1fcea028397ee55e921/download.gif" width="100px">
+<img src="https://github.com/Sravankumar68/Sravankumar68/blob/8a6f81997dc56a6bd820a1fcea028397ee55e921/download.gif" width="140px">
 </td>
 
 </tr>
@@ -24,10 +24,7 @@
 
 <div align="center">
 
-<img 
-src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Explorer;Business+Analysis+Learner;Future+AI+Engineer;Prompt+Engineering+Enthusiast;Looking+For+Internship+Opportunities"
-style="display: block; margin: auto;"
-/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=F7A41D&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Explorer;Business+Analysis+Learner;Future+AI+Engineer;Prompt+Engineering+Enthusiast;Looking+For+Internship+Opportunities)](https://git.io/typing-svg)
 
 </div>
 
